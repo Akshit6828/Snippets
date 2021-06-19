@@ -1,4 +1,11 @@
 # Snippets
-This repository contains various snippets for different programming languages.
-Please do Star the repository if you fork or clone it!
+
+This repository contains various snippets for programming languages.
+
+`cpp.json` is particularly for competitive programming in C++.
+
+Please ⭐ the repository if you fork or clone it!
+
+All sorts of contributions are welcomed. 😄
+
 Happy Coding..!
