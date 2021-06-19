@@ -2,7 +2,7 @@
 
 This repository contains various snippets for programming languages.
 
-`cpp.json` is particularly for competitive programming in C++.
+`cp_cpp.json` is particularly for competitive programming in C++.
 
 Please ⭐ the repository if you fork or clone it!
 
