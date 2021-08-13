@@ -11,6 +11,7 @@
 			"using namespace std;",
 			"#define boost ios::sync_with_stdio(0); cin.tie(0)",
 			"#define ll long long ",
+			"#define deb(x) cout << #x <<\" = \"<< x <<\"\\n\" ",
 			"#define vi vector<int>\n\n\n",
 			"void solve(){",
 			"      $2      ", 
@@ -25,6 +26,32 @@
 			"}"
 		],
 		"description": "Snippet for Competitive Programming"
+	},
+	"Boilerplate Code for Google Coding Challenges": {
+		"prefix": "ks",
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			"#define boost ios::sync_with_stdio(0); cin.tie(0)",
+			"#define ll long long ",
+			"#define deb(x) cout << #x <<\" = \"<< x <<\"\\n\" ",
+			"#define vi vector<int>\n\n\n",
+			"void solve(){",
+			"      $2      ", 
+			"}\n",
+			"int main(){",
+			"\tboost;",
+			"\tint c=0;",
+			"\tint t;",
+			"\tcin>>t;",
+			"\twhile(t--){",
+			"\tcout<<\"Case #\"<<c++<<\": \";",
+        	"\tsolve();",
+			"\t}",
+			"\treturn 0;",
+			"}"
+		],
+		"description": "Snippet for Google Coding Competitions"
 	},
 	"Print": {
 		"prefix": "cout",
